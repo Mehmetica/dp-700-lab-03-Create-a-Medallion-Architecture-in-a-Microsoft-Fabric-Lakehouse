@@ -1,4 +1,10 @@
 # dp-700-lab-03-Create-a-Medallion-Architecture-in-a-Microsoft-Fabric-Lakehouse
+
+
+https://github.com/user-attachments/assets/cf9d94fb-4d29-4ecc-bfd8-28d47b8797f7
+
+
+
 # 🏗️ Create a Medallion Architecture in a Microsoft Fabric Lakehouse
 
 
